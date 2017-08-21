@@ -18,3 +18,9 @@ The following is a brief documentation of each dataset
 **content-caption**: a feature that is used to train the ranker. It's the semantic relatedness score between the news article content and the visualization caption written by the editors of the Wikipedia article in which the image is used (the article identified in the Stage 1). Note that even though metadata for images is sparse and can be inaccurate in the Wikimedia commons, almost all images have a caption when they are included in Wikipedia.
 
 **title-caption**: the semantic relatedness score between the news article title and the visualization caption.
+
+**baseline**: a baseline method from Agrawal et. al. [1], which involved ranking Wikipedia images for their relevance to a particular section from a textbook. 
+
+
+
+[1] Agrawal, Rakesh, et al. "Enriching textbooks with images." Proceedings of the 20th ACM international conference on Information and knowledge management. ACM, 2011.
