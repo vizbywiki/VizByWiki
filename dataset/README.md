@@ -22,5 +22,5 @@ The following is a brief documentation of each dataset
 **baseline**: a baseline method from Agrawal et. al. [1], which involved ranking Wikipedia images for their relevance to a particular section from a textbook. 
 
 
-
+## Reference
 [1] Agrawal, Rakesh, et al. "Enriching textbooks with images." Proceedings of the 20th ACM international conference on Information and knowledge management. ACM, 2011.
