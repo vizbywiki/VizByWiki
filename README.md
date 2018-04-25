@@ -1,2 +1,2 @@
-This is the anonymized repository for WSDM17' submission **VizByWiki: Mining Data Visualizations from the Web to Enrich
-News Articles**. Currently the repo contains only the Amazon Mechanical Turks' ratings of the data visualizations. This ground truth rating dataset is used to train and evluate the **DataViz Ranker** in the paper. Due to anonymity reasons, we can't upload the source code since it contains many identifiable information. The source code will be available upon any formal acceptance of the paper.
+This is the repository for WWW 2018 paper **VizByWiki: Mining Data Visualizations from the Web to Enrich
+News Articles**. Currently the repo contains only the Amazon Mechanical Turks' ratings of the data visualizations. This ground truth rating dataset is used to train and evluate the **DataViz Ranker** in the paper. The source code will be available soon. 
